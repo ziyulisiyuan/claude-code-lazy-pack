@@ -57,10 +57,6 @@ cd claude-code-lazy-pack
 bash install.sh
 ```
 
-跟着屏幕上的提示走。
-
-**完事了。**
-
 ---
 
 ### 方式三：极简复制（如果你不想运行脚本）
