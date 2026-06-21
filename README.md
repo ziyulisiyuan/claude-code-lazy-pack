@@ -165,18 +165,3 @@ dist/             ← 编译输出（自动生成的，别浪费时间看）
 
 **效果：上下文内存省 88-92%，完全后台运行，不用管。**
 
----
-
-## 📋 文件结构
-
-```
-claude-code-lazy-pack/
-├── README.md           ← 你正在看的这个文件
-├── settings.json       ← Claude Code 全局设置
-├── CLAUDE.md           ← 项目"员工手册"模板
-├── .claudeignore       ← 要忽略的文件列表
-├── install.ps1         ← Windows 一键安装脚本
-└── install.sh          ← Mac/Linux 一键安装脚本
-```
-
-
