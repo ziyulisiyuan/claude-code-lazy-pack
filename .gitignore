@@ -1,0 +1,11 @@
+# 这个文件告诉 Git 不要跟踪某些文件
+# 只对开发这个懒人包本身的人有用
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 备份文件
+*.backup
+*.backup.*

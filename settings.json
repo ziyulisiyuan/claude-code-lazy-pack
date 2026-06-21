@@ -1,0 +1,11 @@
+{
+  "model": "sonnet",
+  "autoCompactEnabled": true,
+  "autoInstallToolDeps": true,
+  "env": {
+    "MAX_THINKING_TOKENS": "10000",
+    "CLAUDE_CODE_SUBAGENT_MODEL": "haiku",
+    "ENABLE_PROMPT_CACHING_1H": "1",
+    "CLAUDE_AUTOCOMPACT_PCT_OVERRIDE": "60"
+  }
+}

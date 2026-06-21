@@ -1,0 +1,17 @@
+# Claude Code 自动忽略这些文件/文件夹，不读它们，省 Token
+node_modules/
+dist/
+build/
+.git/
+*.log
+.env
+*.lock
+package-lock.json
+yarn.lock
+__pycache__/
+*.pyc
+.venv/
+venv/
+.next/
+.cache/
+coverage/
